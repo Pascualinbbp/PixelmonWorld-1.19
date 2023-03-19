@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values" : [
+		"pixelmonworld:ruby_block",
+		"pixelmonworld:ruby_ore",
+		"pixelmonworld:deepslate_ruby_ore",
+		"pixelmonworld:netherrack_ruby_ore",
+		"pixelmonworld:endstone_ruby_ore"
+	]
+}

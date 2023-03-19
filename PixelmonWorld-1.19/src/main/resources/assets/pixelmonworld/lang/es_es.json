@@ -1,0 +1,11 @@
+{
+	"itemGroup.tutorialtab": "Tutorial Tab",
+	
+	"item.pixelmonworld.ruby": "Rubí",
+	
+	"block.pixelmonworld.ruby_block": "Bloque de rubí",
+	"block.pixelmonworld.ruby_ore": "Mena de rubí",
+	"block.pixelmonworld.deepslate_ruby_ore": "Mena de rubí de pizarra profunda",
+	"block.pixelmonworld.netherrack_ruby_ore": "Mena de rubí del Nether",
+	"block.pixelmonworld.endstone_ruby_ore": "Mena de rubí del End"
+}
