@@ -4,6 +4,8 @@ import com.pixelmonworld.block.ModBlocks;
 import com.pixelmonworld.item.ModItems;
 
 import net.minecraft.client.Minecraft;
+import net.minecraft.client.renderer.ItemBlockRenderTypes;
+import net.minecraft.client.renderer.RenderType;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
@@ -35,8 +37,7 @@ public class PixelmonWorld {
 	public static class ClientModEvents {
 		@SubscribeEvent
 		public static void onClientSetup(FMLClientSetupEvent event) {
-			Finals.LOGGER.info("HELLO FROM CLIENT SETUP");
-			Finals.LOGGER.info("MINECRAFT NAME >> {}", Minecraft.getInstance().getUser().getName());
+			ItemBlockRenderTypes.setRenderLayer(ModBlocks.STRAWBERRY_CROP.get(), RenderType.cutout()); 
 		}
 	}
 }

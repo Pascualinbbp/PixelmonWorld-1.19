@@ -3,9 +3,14 @@
 	
 	"item.pixelmonworld.ruby": "Rubí",
 	
+	"item.pixelmonworld.strawberry_seeds": "Semillas de fresa",
+	"item.pixelmonworld.strawberry": "Fresa",
+	
 	"block.pixelmonworld.ruby_block": "Bloque de rubí",
 	"block.pixelmonworld.ruby_ore": "Mena de rubí",
 	"block.pixelmonworld.deepslate_ruby_ore": "Mena de rubí de pizarra profunda",
 	"block.pixelmonworld.netherrack_ruby_ore": "Mena de rubí del Nether",
-	"block.pixelmonworld.endstone_ruby_ore": "Mena de rubí del End"
+	"block.pixelmonworld.endstone_ruby_ore": "Mena de rubí del End",
+	
+	"block.pixelmonworld.strawberry_crop": "Cultivo de fresa"
 }
