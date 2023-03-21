@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "pixelmonworld:aluminum_ingot"
+    }
+  },
+  "result": {
+    "item": "pixelmonworld:aluminum_block"
+  }
+}

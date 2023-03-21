@@ -43,6 +43,150 @@ public class ModBlocks {
 					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
 					UniformInt.of(3, 7)),
 			ModCreativeModeTab.TUTORIAL_TAB);
+	
+	public static final RegistryObject<Block> SAPPHIRE_BLOCK = registerBlock(Finals.SAPPHIRE_BLOCK_ID,
+			() -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops()),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> SAPPHIRE_ORE = registerBlock(Finals.SAPPHIRE_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> DEEPSLATE_SAPPHIRE_ORE = registerBlock(Finals.DEEPSLATE_SAPPHIRE_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> NETHERRACK_SAPPHIRE_ORE = registerBlock(Finals.NETHERRACK_SAPPHIRE_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> ENDSTONE_SAPPHIRE_ORE = registerBlock(Finals.ENDSTONE_SAPPHIRE_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	
+	public static final RegistryObject<Block> SILICON_BLOCK = registerBlock(Finals.SILICON_BLOCK_ID,
+			() -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops()),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> SILICON_ORE = registerBlock(Finals.SILICON_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> DEEPSLATE_SILICON_ORE = registerBlock(Finals.DEEPSLATE_SILICON_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> NETHERRACK_SILICON_ORE = registerBlock(Finals.NETHERRACK_SILICON_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> ENDSTONE_SILICON_ORE = registerBlock(Finals.ENDSTONE_SILICON_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	
+	public static final RegistryObject<Block> CRYSTAL_BLOCK = registerBlock(Finals.CRYSTAL_BLOCK_ID,
+			() -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops()),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> CRYSTAL_ORE = registerBlock(Finals.CRYSTAL_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> DEEPSLATE_CRYSTAL_ORE = registerBlock(Finals.DEEPSLATE_CRYSTAL_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> NETHERRACK_CRYSTAL_ORE = registerBlock(Finals.NETHERRACK_CRYSTAL_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> ENDSTONE_CRYSTAL_ORE = registerBlock(Finals.ENDSTONE_CRYSTAL_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	
+	public static final RegistryObject<Block> PLATINUM_BLOCK = registerBlock(Finals.PLATINUM_BLOCK_ID,
+			() -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops()),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> PLATINUM_ORE = registerBlock(Finals.PLATINUM_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> DEEPSLATE_PLATINUM_ORE = registerBlock(Finals.DEEPSLATE_PLATINUM_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> NETHERRACK_PLATINUM_ORE = registerBlock(Finals.NETHERRACK_PLATINUM_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> ENDSTONE_PLATINUM_ORE = registerBlock(Finals.ENDSTONE_PLATINUM_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	
+	public static final RegistryObject<Block> SILVER_BLOCK = registerBlock(Finals.SILVER_BLOCK_ID,
+			() -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops()),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> SILVER_ORE = registerBlock(Finals.SILVER_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> DEEPSLATE_SILVER_ORE = registerBlock(Finals.DEEPSLATE_SILVER_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> NETHERRACK_SILVER_ORE = registerBlock(Finals.NETHERRACK_SILVER_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> ENDSTONE_SILVER_ORE = registerBlock(Finals.ENDSTONE_SILVER_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	
+	public static final RegistryObject<Block> ALUMINUM_BLOCK = registerBlock(Finals.ALUMINUM_BLOCK_ID,
+			() -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops()),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> BAUXITE_ORE = registerBlock(Finals.BAUXITE_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> DEEPSLATE_BAUXITE_ORE = registerBlock(Finals.DEEPSLATE_BAUXITE_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> NETHERRACK_BAUXITE_ORE = registerBlock(Finals.NETHERRACK_BAUXITE_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
+	public static final RegistryObject<Block> ENDSTONE_BAUXITE_ORE = registerBlock(Finals.ENDSTONE_BAUXITE_ORE_ID,
+			() -> new DropExperienceBlock(
+					BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),
+					UniformInt.of(3, 7)),
+			ModCreativeModeTab.TUTORIAL_TAB);
 
 	public static final RegistryObject<Block> STRAWBERRY_CROP = Finals.BLOCKS.register(Finals.STRAWBERRY_CROP_ID,
 			() -> new StrawberryCropBlock(BlockBehaviour.Properties.copy(Blocks.WHEAT)));

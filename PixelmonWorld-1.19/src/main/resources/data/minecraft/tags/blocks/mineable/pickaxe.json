@@ -5,6 +5,42 @@
 		"pixelmonworld:ruby_ore",
 		"pixelmonworld:deepslate_ruby_ore",
 		"pixelmonworld:netherrack_ruby_ore",
-		"pixelmonworld:endstone_ruby_ore"
+		"pixelmonworld:endstone_ruby_ore",
+		
+		"pixelmonworld:sapphire_block",
+		"pixelmonworld:sapphire_ore",
+		"pixelmonworld:deepslate_sapphire_ore",
+		"pixelmonworld:netherrack_sapphire_ore",
+		"pixelmonworld:endstone_sapphire_ore",
+		
+		"pixelmonworld:crystal_block",
+		"pixelmonworld:crystal_ore",
+		"pixelmonworld:deepslate_crystal_ore",
+		"pixelmonworld:netherrack_crystal_ore",
+		"pixelmonworld:endstone_crystal_ore",
+		
+		"pixelmonworld:silicon_block",
+		"pixelmonworld:silicon_ore",
+		"pixelmonworld:deepslate_silicon_ore",
+		"pixelmonworld:netherrack_silicon_ore",
+		"pixelmonworld:endstone_silicon_ore",
+		
+		"pixelmonworld:silver_block",
+		"pixelmonworld:silver_ore",
+		"pixelmonworld:deepslate_silver_ore",
+		"pixelmonworld:netherrack_silver_ore",
+		"pixelmonworld:endstone_silver_ore",
+		
+		"pixelmonworld:platinum_block",
+		"pixelmonworld:platinum_ore",
+		"pixelmonworld:deepslate_platinum_ore",
+		"pixelmonworld:netherrack_platinum_ore",
+		"pixelmonworld:endstone_platinum_ore",
+		
+		"pixelmonworld:aluminum_block",
+		"pixelmonworld:bauxite_ore",
+		"pixelmonworld:deepslate_bauxite_ore",
+		"pixelmonworld:netherrack_bauxite_ore",
+		"pixelmonworld:endstone_bauxite_ore"
 	]
 }

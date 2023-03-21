@@ -5,6 +5,11 @@
 		"pixelmonworld:ruby_ore",
 		"pixelmonworld:deepslate_ruby_ore",
 		"pixelmonworld:netherrack_ruby_ore",
-		"pixelmonworld:endstone_ruby_ore"
+		"pixelmonworld:endstone_ruby_ore",
+		"pixelmonworld:sapphire_block",
+		"pixelmonworld:sapphire_ore",
+		"pixelmonworld:deepslate_sapphire_ore",
+		"pixelmonworld:netherrack_sapphire_ore",
+		"pixelmonworld:endstone_sapphire_ore"
 	]
 }

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pixelmonworld:crystal_block"
+    }
+  ],
+  "result": {
+    "item": "pixelmonworld:crystal",
+    "count": 9
+  }
+}

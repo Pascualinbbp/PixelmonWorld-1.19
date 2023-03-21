@@ -2,6 +2,12 @@
 	"itemGroup.tutorialtab": "Tutorial Tab",
 	
 	"item.pixelmonworld.ruby": "Rubí",
+	"item.pixelmonworld.sapphire": "Zafiro",
+	"item.pixelmonworld.silicon": "Silicio",
+	"item.pixelmonworld.crystal": "Cristal",
+	"item.pixelmonworld.silver_ingot": "Lingote de plata",
+	"item.pixelmonworld.aluminum_ingot": "Lingote de aluminio",
+	"item.pixelmonworld.platinum_ingot": "Lingote de platino",
 	
 	"item.pixelmonworld.strawberry_seeds": "Semillas de fresa",
 	"item.pixelmonworld.strawberry": "Fresa",
@@ -11,6 +17,42 @@
 	"block.pixelmonworld.deepslate_ruby_ore": "Mena de rubí de pizarra profunda",
 	"block.pixelmonworld.netherrack_ruby_ore": "Mena de rubí del Nether",
 	"block.pixelmonworld.endstone_ruby_ore": "Mena de rubí del End",
+	
+	"block.pixelmonworld.sapphire_block": "Bloque de zafiro",
+	"block.pixelmonworld.sapphire_ore": "Mena de zafiro",
+	"block.pixelmonworld.deepslate_sapphire_ore": "Mena de zafiro de pizarra profunda",
+	"block.pixelmonworld.netherrack_sapphire_ore": "Mena de zafiro del Nether",
+	"block.pixelmonworld.endstone_sapphire_ore": "Mena de zafiro del End",
+	
+	"block.pixelmonworld.silicon_block": "Bloque de silicio",
+	"block.pixelmonworld.silicon_ore": "Mena de silicio",
+	"block.pixelmonworld.deepslate_silicon_ore": "Mena de silicio de pizarra profunda",
+	"block.pixelmonworld.netherrack_silicon_ore": "Mena de silicio del Nether",
+	"block.pixelmonworld.endstone_silicon_ore": "Mena de silicio del End",
+	
+	"block.pixelmonworld.crystal_block": "Bloque de cristal",
+	"block.pixelmonworld.crystal_ore": "Mena de cristal",
+	"block.pixelmonworld.deepslate_crystal_ore": "Mena de cristal de pizarra profunda",
+	"block.pixelmonworld.netherrack_crystal_ore": "Mena de cristal del Nether",
+	"block.pixelmonworld.endstone_crystal_ore": "Mena de cristal del End",
+	
+	"block.pixelmonworld.silver_block": "Bloque de plata",
+	"block.pixelmonworld.silver_ore": "Mena de plata",
+	"block.pixelmonworld.deepslate_silver_ore": "Mena de plata de pizarra profunda",
+	"block.pixelmonworld.netherrack_silver_ore": "Mena de plata del Nether",
+	"block.pixelmonworld.endstone_silver_ore": "Mena de plata del End",
+	
+	"block.pixelmonworld.aluminum_block": "Bloque de aluminio",
+	"block.pixelmonworld.bauxite_ore": "Mena de bauxita",
+	"block.pixelmonworld.deepslate_bauxite_ore": "Mena de bauxita de pizarra profunda",
+	"block.pixelmonworld.netherrack_bauxite_ore": "Mena de bauxita del Nether",
+	"block.pixelmonworld.endstone_bauxite_ore": "Mena de bauxita del End",
+	
+	"block.pixelmonworld.platinum_block": "Bloque de platino",
+	"block.pixelmonworld.platinum_ore": "Mena de platino",
+	"block.pixelmonworld.deepslate_platinum_ore": "Mena de platino de pizarra profunda",
+	"block.pixelmonworld.netherrack_platinum_ore": "Mena de platino del Nether",
+	"block.pixelmonworld.endstone_platinum_ore": "Mena de platino del End",
 	
 	"block.pixelmonworld.strawberry_crop": "Cultivo de fresa"
 }

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"all": "pixelmonworld:block/endstone_bauxite_ore"
+	}
+}

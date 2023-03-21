@@ -14,6 +14,18 @@ public class ModItems {
 
 	public static final RegistryObject<Item> RUBY = Finals.ITEMS.register(Finals.RUBY_ID,
 			() -> new Item(new Item.Properties().tab(ModCreativeModeTab.TUTORIAL_TAB)));
+	public static final RegistryObject<Item> SAPPHIRE = Finals.ITEMS.register(Finals.SAPPHIRE_ID,
+			() -> new Item(new Item.Properties().tab(ModCreativeModeTab.TUTORIAL_TAB)));
+	public static final RegistryObject<Item> SILICON = Finals.ITEMS.register(Finals.SILICON_ID,
+			() -> new Item(new Item.Properties().tab(ModCreativeModeTab.TUTORIAL_TAB)));
+	public static final RegistryObject<Item> CRYSTAL = Finals.ITEMS.register(Finals.CRYSTAL_ID,
+			() -> new Item(new Item.Properties().tab(ModCreativeModeTab.TUTORIAL_TAB)));
+	public static final RegistryObject<Item> SILVER_INGOT = Finals.ITEMS.register(Finals.SILVER_INGOT_ID,
+			() -> new Item(new Item.Properties().tab(ModCreativeModeTab.TUTORIAL_TAB)));
+	public static final RegistryObject<Item> PLATINUM_INGOT = Finals.ITEMS.register(Finals.PLATINUM_INGOT_ID,
+			() -> new Item(new Item.Properties().tab(ModCreativeModeTab.TUTORIAL_TAB)));
+	public static final RegistryObject<Item> ALUMINUM_INGOT = Finals.ITEMS.register(Finals.ALUMINUM_INGOT_ID,
+			() -> new Item(new Item.Properties().tab(ModCreativeModeTab.TUTORIAL_TAB)));
 
 	public static final RegistryObject<Item> STRAWBERRY_SEEDS = Finals.ITEMS.register(Finals.STRAWBERRY_SEEDS_ID,
 			() -> new ItemNameBlockItem(ModBlocks.STRAWBERRY_CROP.get(),

@@ -1,6 +1,21 @@
 {
 	"replace": false,
 	"values" : [
+		"pixelmonworld:platinum_block",
+		"pixelmonworld:platinum_ore",
+		"pixelmonworld:deepslate_platinum_ore",
+		"pixelmonworld:netherrack_platinum_ore",
+		"pixelmonworld:endstone_platinum_ore",
+		"pixelmonworld:silver_block",
+		"pixelmonworld:silver_ore",
+		"pixelmonworld:deepslate_silver_ore",
+		"pixelmonworld:netherrack_silver_ore",
+		"pixelmonworld:endstone_silver_ore",
+		"pixelmonworld:aluminum_block",
+		"pixelmonworld:bauxite_ore",
+		"pixelmonworld:deepslate_bauxite_ore",
+		"pixelmonworld:netherrack_bauxite_ore",
+		"pixelmonworld:endstone_bauxite_ore"
 
 	]
 }
