@@ -2,8 +2,8 @@ package com.pixelmonworld;
 
 import com.pixelmonworld.block.ModBlocks;
 import com.pixelmonworld.item.ModItems;
+import com.pixelmonworld.painting.ModPaintings;
 
-import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.ItemBlockRenderTypes;
 import net.minecraft.client.renderer.RenderType;
 import net.minecraftforge.common.MinecraftForge;
@@ -20,24 +20,24 @@ public class PixelmonWorld {
 
 	public PixelmonWorld() {
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
-		
+
 		ModItems.register(bus);
-		ModBlocks.register(bus); 
-		
+		ModBlocks.register(bus);
+		ModPaintings.register(bus); 
+
 		bus.addListener(this::commonSetup);
 		MinecraftForge.EVENT_BUS.register(this);
 	}
-	
+
 	private void commonSetup(final FMLCommonSetupEvent event) {
-		Finals.LOGGER.info("HELLO FROM COMMON SETUP");
-		Finals.LOGGER.info("MINECRAFT NAME >> {}", Minecraft.getInstance().getUser().getName());
+		
 	}
-	
+
 	@Mod.EventBusSubscriber(modid = Finals.MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD)
 	public static class ClientModEvents {
 		@SubscribeEvent
 		public static void onClientSetup(FMLClientSetupEvent event) {
-			ItemBlockRenderTypes.setRenderLayer(ModBlocks.STRAWBERRY_CROP.get(), RenderType.cutout()); 
+			ItemBlockRenderTypes.setRenderLayer(ModBlocks.STRAWBERRY_CROP.get(), RenderType.cutout());
 		}
 	}
 }
