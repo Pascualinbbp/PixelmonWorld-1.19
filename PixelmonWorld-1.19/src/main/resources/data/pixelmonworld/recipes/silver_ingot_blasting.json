@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "pixelmonworld:silver_ore"
+  },
+  "result": "pixelmonworld:silver_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

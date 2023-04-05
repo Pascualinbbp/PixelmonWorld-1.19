@@ -1,9 +1,0 @@
-{
-	"type": "minecraft:blasting",
-	"ingredient": {
-		"item": "pixelmonworld:endstone_platinum_ore"
-	},
-	"result": "pixelmonworld:platinum_ingot",
-	"experience": 0.7,
-	"cookingtime": 100
-}

@@ -3,12 +3,17 @@
   "pools": [
     {
       "rolls": 1,
-      "entries": [ 
+      "entries": [
         {
           "type": "minecraft:item",
           "name": "pixelmonworld:bauxite_ore"
         }
       ]
+    }
+  ],
+  "functions": [
+    {
+      "function": "minecraft:explosion_decay"
     }
   ]
 }

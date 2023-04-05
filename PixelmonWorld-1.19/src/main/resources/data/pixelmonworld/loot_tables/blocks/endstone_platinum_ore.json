@@ -3,12 +3,17 @@
   "pools": [
     {
       "rolls": 1,
-      "entries": [ 
+      "entries": [
         {
           "type": "minecraft:item",
-          "name": "pixelmonworld:endstone_platinum_ore"
+          "name": "pixelmonworld:platinum_ore"
         }
       ]
+    }
+  ],
+  "functions": [
+    {
+      "function": "minecraft:explosion_decay"
     }
   ]
 }
